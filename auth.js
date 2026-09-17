@@ -1,5 +1,8 @@
 // auth.js
-
+// ==========================================
+// Feature Branch Update: Bổ sung ghi chú kiểm tra định dạng
+// Cập nhật ngày: 17/09/2026
+// ==========================================
 // Giả lập cơ sở dữ liệu tài khoản
 const USERS_DB = {
   admin: {
