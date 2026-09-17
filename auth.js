@@ -7,7 +7,7 @@
 // Giả lập cơ sở dữ liệu tài khoản
 const USERS_DB = {
   admin: {
-    password: "9999",
+    password: "123",
     isLocked: false
   },
   locked_user: {
